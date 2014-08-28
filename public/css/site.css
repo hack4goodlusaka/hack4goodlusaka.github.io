@@ -1,0 +1,37 @@
+p {
+  font-size: larger;
+}
+
+.world-background {
+  background: url('../images/worldmap.png');
+  -webkit-background-size: 100% auto;
+  -moz-background-size: 100% auto;
+  -o-background-size: 100% auto;
+  background-size: 100% auto;
+}
+
+.center {
+  text-align: center;
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+.justify {
+  text-align: justify;
+}
+
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rockstart-logo-home {
+  width: 95%;
+}
+.socialab-logo-home {
+  height: 165px;
+}

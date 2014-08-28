@@ -1,0 +1,21 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Geeklist hack4good Amsterdam'
+tagline:          'Amsterdam'
+description:      'United globally we hack a better world'
+url:              http://hack4goodamsterdam.github.io
+baseurl:          /
+
+author:
+  name:           'Camiel R. Verschoor'
+  url:            https://twitter.com/Camiel_V
+
+paginate:         1
+
+# Custom vars
